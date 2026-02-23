@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+email-validator
+pymongo
+redis
+passlib[bcrypt]
+bcrypt<4.0.0
+PyJWT
